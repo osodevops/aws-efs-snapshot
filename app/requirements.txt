@@ -1,0 +1,3 @@
+borg
+paramiko==2.2.0
+boto3

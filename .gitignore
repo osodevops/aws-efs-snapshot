@@ -1,0 +1,4 @@
+.idea/
+/app/ephemeral_key_for_efs_snapshot.pem
+/aws_credentials/config
+/aws_credentials/credentials
